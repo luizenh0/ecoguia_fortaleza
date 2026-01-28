@@ -21,9 +21,9 @@ Pré-requisitos: Python 3.8 ou superior.
 
 Clone o repositório e entre na pasta:
 
-```Bash
-git clone [https://github.com/luizenh0/ecoguia-fortaleza.git](https://github.com/luizenh0/ecoguia-fortaleza.git)
-cd ecoguia-fortaleza
+```bash
+git clone [https://github.com/luizenh0/ecoguia_fortaleza.git](https://github.com/luizenh0/ecoguia_fortaleza.git)
+cd ecoguia_fortaleza
 ```
 Execute a aplicação:
 
