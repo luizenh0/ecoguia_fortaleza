@@ -1,0 +1,1154 @@
+{
+    "residuos": [
+        {
+            "id_residuo": 1,
+            "nome_tipo": "Resíduos Recicláveis",
+            "cor_hex": "#BFDBFE",
+            "descricao": "Entulho, restos de poda, móveis, estofados velhos, óleo de cozinha, papelão, plásticos, vidros e metais."
+        }
+    ],
+    "pontos_coleta": [
+        {
+            "id_ponto": 1,
+            "nome_local": "Ecoponto Sitio São João",
+            "endereco": "Rua Vede 42, em frente ao numero 287 - Jangurussu",
+            "latitude": -3.85063825,
+            "longitude": -38.51433331,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 2,
+            "nome_local": "Ecoponto Luciano Cavalcante",
+            "endereco": "Rua Jaime Leonel, esquina com R. Monsenhor Carneiro da Cunha - Engenheiro Luciano Cavalcante",
+            "latitude": -3.77375302,
+            "longitude": -38.49691502,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 3,
+            "nome_local": "Ecoponto Conjunto Ceará",
+            "endereco": "Rua 442, 159 - Esquina com Rua 432 - Conjunto Ceará I",
+            "latitude": -3.76159918,
+            "longitude": -38.60486562,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 4,
+            "nome_local": "Ecoponto Centro II",
+            "endereco": "Guilherme Rocha 1427 - Centro",
+            "latitude": -3.72363597,
+            "longitude": -38.53856177,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 5,
+            "nome_local": "Ecoponto João XXIII",
+            "endereco": "Travessa Rio de Janeiro, 456 - João XXIII",
+            "latitude": -3.76967969,
+            "longitude": -38.59166582,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 6,
+            "nome_local": "Ecoponto Cajazeiras",
+            "endereco": "Rua Francisco José de Albuquerque Pereira (vizinho n. 414) - Cajazeiras",
+            "latitude": -3.81177931,
+            "longitude": -38.50494774,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 7,
+            "nome_local": "Ecoponto Vila Velha II",
+            "endereco": "Avenida Major Assis, esquina com rua Cecília - Vila Velha",
+            "latitude": -3.71916207,
+            "longitude": -38.60576462,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 8,
+            "nome_local": "Ecoponto São Bento II",
+            "endereco": "Rua Oliveira Lemos, esqina com rua Manoel Freitas - São Bento",
+            "latitude": -3.85304288,
+            "longitude": -38.48118294,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 9,
+            "nome_local": "Ecoponto Messejana II",
+            "endereco": "Rua José Hipólito, em frente ao n° 819 - Messejana",
+            "latitude": -3.83469268,
+            "longitude": -38.48840721,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 10,
+            "nome_local": "Ecoponto Varjota",
+            "endereco": "Avenida Antônio Justa, 4188 - cruzamento com a Rua Meruoca - Varjota",
+            "latitude": -3.73167914,
+            "longitude": -38.48310638,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 11,
+            "nome_local": "Ecoponto Cidade 2000",
+            "endereco": "Rua Giselda Cysne, 92 - Cruzamento com a Rua Sólon Carvalho - Cidade 2000",
+            "latitude": -3.75250653,
+            "longitude": -38.47275148,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 12,
+            "nome_local": "Ecoponto Vila Peri",
+            "endereco": "Rua Antônio Costa Mendes, 468 - Esquina com a Travessa Augusto Ribeiro - Vila Peri",
+            "latitude": -3.79019722,
+            "longitude": -38.58417110,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 13,
+            "nome_local": "Ecoponto Fátima",
+            "endereco": "Avenida Eduardo Girão, 989 - Esquina com a Avenida Luciano Carneiro - Fátima",
+            "latitude": -3.75263201,
+            "longitude": -38.53268936,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 14,
+            "nome_local": "Ecoponto Serrinha",
+            "endereco": "Rua Inácio Parente, 70 - Esquina com a Rua Freire Alemão - Serrinha",
+            "latitude": -3.78233936,
+            "longitude": -38.54260589,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 15,
+            "nome_local": "Ecoponto Conjunto Esperança",
+            "endereco": "Avenida Penetração Norte-Sul , 472 - Esquina com a Rua do Canal - Conjunto Esperança",
+            "latitude": -3.81392076,
+            "longitude": -38.59281572,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 16,
+            "nome_local": "Ecoponto Edson Queiroz",
+            "endereco": "Rua Hill de Moraes, 397 - Esquina com a Rua Vereador José Batista Barbosa - Edson Queiróz",
+            "latitude": -3.77387886,
+            "longitude": -38.47553528,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 17,
+            "nome_local": "Ecoponto Cidade dos Funcionários",
+            "endereco": "Rua Dr. José Plutarco, 24 - Esquina com a Rua Professor Aluísio Barros Leal - Cidade dos Funcionários",
+            "latitude": -3.78954444,
+            "longitude": -38.49209644,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 18,
+            "nome_local": "Ecoponto Jangurussu",
+            "endereco": "Avenida Castelo de Castro, 1207 - Esquina com a Rua Gergelim - Jangurussu",
+            "latitude": -3.84078328,
+            "longitude": -38.52154573,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 19,
+            "nome_local": "Ecoponto Praia do Futuro I",
+            "endereco": "Rua José Aurélio Câmara, 83 - Esquina com a Avenida Dioguinho - Vicente Pinzon",
+            "latitude": -3.73077617,
+            "longitude": -38.45949991,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 20,
+            "nome_local": "Ecoponto Vicente Pinzon",
+            "endereco": "Rua Veneza, 131 - Esquina com a Rua Josias Paula de Souza - Vicente Pinzon",
+            "latitude": -3.72862025,
+            "longitude": -38.47205721,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 21,
+            "nome_local": "Ecoponto Jóquei Clube",
+            "endereco": "Rua Perdigão de Oliveira, 971 - Esquina com a Rua Silveira Filho - Joquei Clube",
+            "latitude": -3.77455989,
+            "longitude": -38.57806732,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 22,
+            "nome_local": "Ecoponto Pici",
+            "endereco": "Rua Pernambuco, 600 - Anexo à UFC (ao lado do número 600) - Pici",
+            "latitude": -3.75739863,
+            "longitude": -38.57216810,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 23,
+            "nome_local": "Ecoponto Granja Portugal",
+            "endereco": "Rua Duas Nações, 1029 - Granja Portugal",
+            "latitude": -3.78103013,
+            "longitude": -38.60303574,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 24,
+            "nome_local": "Ecoponto Parque Dois Irmãos",
+            "endereco": "Rua H, S/N - Esquina com a Rua K - Parque Dois Irmãos",
+            "latitude": -3.80526847,
+            "longitude": -38.54700083,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 25,
+            "nome_local": "Ecoponto Jardim Cearense",
+            "endereco": "Rua Holanda, 1538 - Esquina com a Rua Cel. Jaime Rolemberg - Jardim Cearense",
+            "latitude": -3.80133974,
+            "longitude": -38.56085841,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 26,
+            "nome_local": "Ecoponto José Walter",
+            "endereco": "Avenida B, S/N - Esquina com Rua 33 - Prefeito José Walter",
+            "latitude": -3.82592907,
+            "longitude": -38.55841537,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 27,
+            "nome_local": "Ecoponto Messejana",
+            "endereco": "Rua Nicolau Coelho, S/N - Esquina com Av. 24 de Novembro - Messejana",
+            "latitude": -3.82138488,
+            "longitude": -38.49208454,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 28,
+            "nome_local": "Ecoponto Dias Macêdo",
+            "endereco": "Rua Marechal Bittencourt, 199 - Esquina com Rua Capitão João Ferreira Lima - Dias Macedo",
+            "latitude": -3.78548745,
+            "longitude": -38.52803826,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 29,
+            "nome_local": "Ecoponto Sapiranga",
+            "endereco": "Avenida Edilson Brasil Soares, 1220 - Esquina com Rua Bill Cartaxo - Sapiranga/Coité",
+            "latitude": -3.78915334,
+            "longitude": -38.47424473,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 30,
+            "nome_local": "Ecoponto São Bento",
+            "endereco": "Travessa José Teixeira Costa, S/N - Esquina com Rua São Benedito - São Bento",
+            "latitude": -3.84741570,
+            "longitude": -38.48098923,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 31,
+            "nome_local": "Ecoponto Conjunto Ceará II",
+            "endereco": "Avenida C, 1890 - Esquina com Rua 1001 - Conjunto Ceará II",
+            "latitude": -3.77339175,
+            "longitude": -38.61593273,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 32,
+            "nome_local": "Ecoponto Centro",
+            "endereco": "Avenida Alberto Nepomuceno, 144 - Esquina com Travessa Icó - Centro",
+            "latitude": -3.72222426,
+            "longitude": -38.52400731,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 33,
+            "nome_local": "Ecoponto Mondubim",
+            "endereco": "Rua Carlos Pimenta, 507 - Esquina com a Rua Coronel Tibúrcio - Mondubim",
+            "latitude": -3.81525657,
+            "longitude": -38.57450512,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 34,
+            "nome_local": "Ecoponto Mondubim II",
+            "endereco": "Rua Mangaba, 170 - Esquina com a Rua B - Mondubim",
+            "latitude": -3.82254805,
+            "longitude": -38.56348904,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 35,
+            "nome_local": "Ecoponto Damas",
+            "endereco": "Rua Júlio César, 1532 - Entre a Rua Macedo e a Rua Afrodísio Godim - Damas",
+            "latitude": -3.75540369,
+            "longitude": -38.54770664,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 36,
+            "nome_local": "Ecoponto Guararapes",
+            "endereco": "Rua Paulo Roberto Pinheiro, 01 - Esquina com a Avenida Washington Soares - Guararapes",
+            "latitude": -3.75783275,
+            "longitude": -38.48893839,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 37,
+            "nome_local": "Ecoponto Parangaba",
+            "endereco": "Alameda Oxóssi, 80 - Esquina com a Rua Topógrafo Sales - Parangaba",
+            "latitude": -3.77839466,
+            "longitude": -38.55825781,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 38,
+            "nome_local": "Ecoponto Jacarecanga",
+            "endereco": "Av. José Jatahy, 415 - Esquina com a Av. Sargento Hermínio - Jacarecanga",
+            "latitude": -3.72440705,
+            "longitude": -38.54608659,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 39,
+            "nome_local": "Ecoponto Autran Nunes",
+            "endereco": "Avenida Senador Fernandes Távora, 2938 - Esquina com a Rua Desembargador Felismino - Autran Nunes",
+            "latitude": -3.75523838,
+            "longitude": -38.59842605,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 40,
+            "nome_local": "Ecoponto Álvaro Weyne",
+            "endereco": "Rua José Acioli, esquina com Avenida Tenente Lisboa - Álvaro Weyne",
+            "latitude": -3.72082253,
+            "longitude": -38.56877146,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 41,
+            "nome_local": "Ecoponto Jovita feitosa",
+            "endereco": "Rua General Bernardo figueiredo, Esquina com Rua Crz Saldanha - Amadeu Furtado",
+            "latitude": -3.73970431,
+            "longitude": -38.55290125,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 42,
+            "nome_local": "Ecoponto Bonsucesso",
+            "endereco": "Rua Emílio de Menezes, esquina com rua Luiza Moreira - Bonsucessso",
+            "latitude": -3.78024536,
+            "longitude": -38.59341188,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 43,
+            "nome_local": "Ecoponto Antônio Bezerra",
+            "endereco": "Rua Doutor João Guilherme, Em frente ao nº 373 - Antônio Bezerra",
+            "latitude": -3.73716956,
+            "longitude": -38.58869020,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 44,
+            "nome_local": "Ecoponto Parreão",
+            "endereco": "Rua André Chaves, esquina com Av. Luciano Carneiro - Parreão",
+            "latitude": -3.75841156,
+            "longitude": -38.53511371,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 45,
+            "nome_local": "Ecoponto Cartier",
+            "endereco": "Rua Quartzo, esquina com rua Ônix - Mondubim",
+            "latitude": -3.81212256,
+            "longitude": -38.55809663,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 46,
+            "nome_local": "Ecoponto Sapiranga II",
+            "endereco": "Rua Dr. Correia Lima, esquina com rua Dr. Itamar Espíndola - Sapiranga/Coité",
+            "latitude": -3.79474688,
+            "longitude": -38.45855669,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 47,
+            "nome_local": "Ecoponto AEROLÂNDIA",
+            "endereco": "Rua Tenente Roma, esquina com BR 116 - Alto da Balança",
+            "latitude": -3.76819858,
+            "longitude": -38.51722307,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 48,
+            "nome_local": "Ecoponto Tancredo Neves",
+            "endereco": "Rua da Cachoeira, esquina com Av. José Leon - Jardim das Oliveiras",
+            "latitude": -3.78672624,
+            "longitude": -38.50898494,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 49,
+            "nome_local": "Ecoponto Vila Ellery",
+            "endereco": "Rua Gonçalo de Lagos, esquina com rua Valdir Leopércio - Monte Castelo",
+            "latitude": -3.72293969,
+            "longitude": -38.55768324,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 50,
+            "nome_local": "Ecoponto Cidade Jardim II",
+            "endereco": "Rua 16, Quadra 8 - Prefeito José Walter",
+            "latitude": -3.84259608,
+            "longitude": -38.55137438,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 51,
+            "nome_local": "Ecoponto Siqueira",
+            "endereco": "Av. Luis Montenegro, esquina com rua C - Siqueira",
+            "latitude": -3.81532125,
+            "longitude": -38.61635810,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 52,
+            "nome_local": "Ecoponto Jardim União",
+            "endereco": "Rua Menor Jerônimo, em frente ao nº 2930 - Passaré",
+            "latitude": -3.81419115,
+            "longitude": -38.53507565,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 53,
+            "nome_local": "Ecoponto Parque Rio Branco",
+            "endereco": "Avenida Visconde do Rio Branco, 3485 - Anexo ao Parque Rio Branco - Joaquim Távora",
+            "latitude": -3.75158009,
+            "longitude": -38.52072588,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 54,
+            "nome_local": "Ecoponto Conjunto Ceará II",
+            "endereco": "Avenida Ministro Albuquerque Lima, 1150 - Esquina com a Rua 721 - Conjunto Ceará II",
+            "latitude": -3.77126099,
+            "longitude": -38.60251891,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 55,
+            "nome_local": "Ecoponto Aracapé",
+            "endereco": "Rua Miguel de Aragão, 754 - Esquina com a Rua Nossa Senhora Aparecida - Aracapé",
+            "latitude": -3.83358613,
+            "longitude": -38.58635920,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 56,
+            "nome_local": "Ecoponto Jardim Glória",
+            "endereco": "Rua Beatriz, em frente ao número 385 - Barroso",
+            "latitude": -3.81769212,
+            "longitude": -38.50572500,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 57,
+            "nome_local": "Ecoponto São Sebastião",
+            "endereco": "Rua Clarindo de Queiroz, em frente ao número 1596 - Centro",
+            "latitude": -3.73028224,
+            "longitude": -38.53824842,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 58,
+            "nome_local": "Ecoponto Conjunto João Paulo II",
+            "endereco": "rua 23, esquina com a rua K - Barroso",
+            "latitude": -3.82698120,
+            "longitude": -38.51563804,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 59,
+            "nome_local": "Ecoponto Lagoa Redonda",
+            "endereco": "RUA PAULO COELHO, esquina com PAULO FREIRE - Lagoa Redonda",
+            "latitude": -3.82877105,
+            "longitude": -38.46891275,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 60,
+            "nome_local": "Ecoponto Lagoa do Urubu II",
+            "endereco": "Rua Valmir, esquina com Rua Maria Souza - Floresta",
+            "latitude": -3.71946479,
+            "longitude": -38.57766393,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 61,
+            "nome_local": "Ecoponto Lagoa do Urubu I",
+            "endereco": "Rua Frei Odilon, esquina com rua dos Lagos Azuis - Floresta",
+            "latitude": -3.72405416,
+            "longitude": -38.57508455,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 62,
+            "nome_local": "Ecoponto São Gerardo",
+            "endereco": "Rua Hélio Viana, esquina com avenida Projetada - São Gerardo",
+            "latitude": -3.73213191,
+            "longitude": -38.56057183,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 63,
+            "nome_local": "Ecoponto Rodolfo Teófilo",
+            "endereco": "Rua Ana Neri, esquina com rua Coronel Nunes Melo - Rodolfo Teófilo",
+            "latitude": -3.74604803,
+            "longitude": -38.55062772,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 64,
+            "nome_local": "Ecoponto Bela Vista",
+            "endereco": "Rua rio Grande do Sul, esquina com rua Mário de Andrade - Bela Vista",
+            "latitude": -3.75081508,
+            "longitude": -38.56211987,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 65,
+            "nome_local": "Ecoponto Desembargador Gonzaga",
+            "endereco": "Avenida Desembargador Gonzaga, esquina com avenida Heitor de Oliveira Albuquerque - Cidade dos Funcionários",
+            "latitude": -3.79073802,
+            "longitude": -38.50256245,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 66,
+            "nome_local": "Ecoponto Aguanambi",
+            "endereco": "Aveinda Aguanambi, esquin com rua José Euclides - Fátima",
+            "latitude": -3.75217820,
+            "longitude": -38.52373958,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 67,
+            "nome_local": "Ecoponto Autran Nunes II",
+            "endereco": "Rua Padre Hipólito Pamplona, esquina com rua Pinhais - Autran Nunes",
+            "latitude": -3.74838561,
+            "longitude": -38.59552158,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 68,
+            "nome_local": "Ecoponto Granja Lisboa",
+            "endereco": "Rua LO, 2 - Granja Lisboa",
+            "latitude": -3.79777273,
+            "longitude": -38.61789772,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 69,
+            "nome_local": "Ecoponto José Walter II",
+            "endereco": "Avenida E, esquina com avenida I - José Walter",
+            "latitude": -3.83542771,
+            "longitude": -38.55416152,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 70,
+            "nome_local": "Ecoponto Sapiranga III",
+            "endereco": "Rua Evilásio Almeida, esquina com rua Ana Macedo - Sapiranga",
+            "latitude": -3.79567549,
+            "longitude": -38.46734699,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 71,
+            "nome_local": "Ecoponto Lagoa da Zeza",
+            "endereco": "Avenida Rogaciano Leite, esquina com rua Castro Alencar - Jardim das Oliveiras",
+            "latitude": -3.78280206,
+            "longitude": -38.50255471,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 72,
+            "nome_local": "Ecoponto Itaoca",
+            "endereco": "Rua Barão de Canindé, esquina com rua Mundica Paula - Itaoca",
+            "latitude": -3.77249899,
+            "longitude": -38.55819475,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 73,
+            "nome_local": "Ecoponto Itaperi",
+            "endereco": "Avenida Doutor Silas Munguba, esquina com rua Paraguaçu - Itaperi",
+            "latitude": -3.79042632,
+            "longitude": -38.54068771,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 74,
+            "nome_local": "Ecoponto Dom Lustosa",
+            "endereco": "Avenida Coronel Matos Dourado, esquina com Rua Vitória - Dom Lustosa",
+            "latitude": -3.75331406,
+            "longitude": -38.58239033,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 75,
+            "nome_local": "Ecoponto Santa Filomena",
+            "endereco": "rua Paraisópolis, esquina com rua Domingos Alves Ribeiro - Jangurussu",
+            "latitude": -3.83782532,
+            "longitude": -38.51309387,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 76,
+            "nome_local": "Ecoponto Cocó",
+            "endereco": "Avenida Padre Antônio Tomás, 2669 - Em frente ao número 2656 (próximo à Via Expressa) - Cocó",
+            "latitude": -3.74342403,
+            "longitude": -38.48860531,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 77,
+            "nome_local": "Ecoponto Verdes Mares- Papicu",
+            "endereco": "Rua Júlio Azevedo 688 - Papicu",
+            "latitude": -3.73694103,
+            "longitude": -38.47866800,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 78,
+            "nome_local": "Ecoponto Vila Velha",
+            "endereco": "Rua Jasmim, 0 - Por trás do Liceu Vila Velha - Vila Velha",
+            "latitude": -3.71132021,
+            "longitude": -38.60052243,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 79,
+            "nome_local": "Ecoponto Barra do Ceará",
+            "endereco": "Rua Graça Aranha, 300 - Esquina com a Rua Wilcar Bastos Cavalcante - Barra do Ceará",
+            "latitude": -3.70814464,
+            "longitude": -38.57330435,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 80,
+            "nome_local": "Ecoponto Carlito Pamplona",
+            "endereco": "Avenida Francisco Sá, S/N - Esquina com Rua Dom Hélio Campos - Carlito Pamplona",
+            "latitude": -3.71750945,
+            "longitude": -38.55622056,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 81,
+            "nome_local": "Ecoponto Pirambú",
+            "endereco": "Rua Coronel Costa Matos, 5 - Esquina com Rua Jacinto de Matos, ao lado do Posto - jacarecanga",
+            "latitude": -3.71345751,
+            "longitude": -38.54533721,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 82,
+            "nome_local": "Ecoponto Leste Oeste",
+            "endereco": "Av. Leste-Oeste, 2958 - Anexo à Escola Municipal Hilberto Silva - Carlito Pamplona",
+            "latitude": -3.71206723,
+            "longitude": -38.55529313,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 83,
+            "nome_local": "Ecoponto Pirambú II",
+            "endereco": "Rua Nossa Senhora das Graças, 505 - Esquina com a Rua Santa Rosa - Pirambu",
+            "latitude": -3.71051730,
+            "longitude": -38.55284583,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 84,
+            "nome_local": "Ecoponto Cristo Redentor",
+            "endereco": "Avenida Presidente Castelo Branco, 3879 - Av. Leste-Oeste, em frente ao nº 3833 - Cristo Redentor",
+            "latitude": -3.70863991,
+            "longitude": -38.56705134,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 85,
+            "nome_local": "Ecoponto Vila do Mar",
+            "endereco": "Rua José Roberto Sales, 473 - Esquina com a Rua Valdir Leopércio (ao lado do CEI) - Barra do Ceará",
+            "latitude": -3.69537416,
+            "longitude": -38.58239695,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 86,
+            "nome_local": "Ecoponto Vila do Mar II",
+            "endereco": "Rua Francisco Calaça, esquina com rua Santa Elisa - Barra do Ceará",
+            "latitude": -3.70234582,
+            "longitude": -38.56866529,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 87,
+            "nome_local": "Ecoponto Floresta",
+            "endereco": "Rua General Mário Hermes, esquina com a Rua Adolfo Bezerra de Menezes - Floresta",
+            "latitude": -3.71444678,
+            "longitude": -38.57674346,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 88,
+            "nome_local": "Ecoponto Barra do Ceará II",
+            "endereco": "Avenida Francisco Sá, esquina com rua Helenice Paiva Menezes - Barra do Ceará",
+            "latitude": -3.70651527,
+            "longitude": -38.58609944,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 89,
+            "nome_local": "Ecoponto Paupina",
+            "endereco": "Rua Primeiro de Abril, esquina com Rua Shirley - Paupina",
+            "latitude": -3.86822192,
+            "longitude": -38.49399499,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 90,
+            "nome_local": "Ecoponto Alamdeda das Palmeiras",
+            "endereco": "Rua Palmeira Tamareira, esquina com rua Palmeira Oliveira - Pedras",
+            "latitude": -3.87325989,
+            "longitude": -38.51738413,
+            "horario_funcionamento": "Seg-Sáb: 08h00 as 17h00"
+        },
+        {
+            "id_ponto": 91,
+            "nome_local": "Ecoponto Dragão do Mar",
+            "endereco": "Rua Almirante Jaceguai x Av. Pessoa Anta - Centro",
+            "latitude": -3.72103689,
+            "longitude": -38.51952655,
+            "horario_funcionamento": "Sem informação"
+        },
+        {
+            "id_ponto": 92,
+            "nome_local": "Ecoponto Luiza Tavora",
+            "endereco": "Rua Costa Barros, 1567 - Aldeota",
+            "latitude": -3.73110638,
+            "longitude": -38.50959896,
+            "horario_funcionamento": "Sem informação"
+        },
+        {
+            "id_ponto": 93,
+            "nome_local": "Ecoponto Campo do América",
+            "endereco": "Rua José Vilar x Rua Edgar Damasceno - Meireles",
+            "latitude": -3.73092970,
+            "longitude": -38.50304049,
+            "horario_funcionamento": "Sem informação"
+        },
+        {
+            "id_ponto": 94,
+            "nome_local": "Ecoponto Praça das Flores",
+            "endereco": "Rua Torres Câmara x Avenida Des. Moreira - Aldeota",
+            "latitude": -3.73848820,
+            "longitude": -38.49877536,
+            "horario_funcionamento": "Sem informação"
+        },
+        {
+            "id_ponto": 95,
+            "nome_local": "Ecoponto Joaquim Tavora",
+            "endereco": "Praça Joaquim Tavora - Joaquim Távora",
+            "latitude": -3.75230835,
+            "longitude": -38.51658854,
+            "horario_funcionamento": "Sem informação"
+        }
+    ],
+    "ponto_residuo": [
+        {
+            "id_ponto": 1,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 2,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 3,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 4,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 5,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 6,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 7,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 8,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 9,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 10,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 11,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 12,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 13,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 14,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 15,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 16,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 17,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 18,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 19,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 20,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 21,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 22,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 23,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 24,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 25,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 26,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 27,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 28,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 29,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 30,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 31,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 32,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 33,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 34,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 35,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 36,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 37,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 38,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 39,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 40,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 41,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 42,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 43,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 44,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 45,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 46,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 47,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 48,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 49,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 50,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 51,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 52,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 53,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 54,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 55,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 56,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 57,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 58,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 59,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 60,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 61,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 62,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 63,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 64,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 65,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 66,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 67,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 68,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 69,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 70,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 71,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 72,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 73,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 74,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 75,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 76,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 77,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 78,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 79,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 80,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 81,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 82,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 83,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 84,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 85,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 86,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 87,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 88,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 89,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 90,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 91,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 92,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 93,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 94,
+            "id_residuo": 1
+        },
+        {
+            "id_ponto": 95,
+            "id_residuo": 1
+        }
+    ]
+}
